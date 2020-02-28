@@ -2,13 +2,14 @@ import React from "react";
 // import Home from "./pages/Home.jsx";
 // import Produtos from "./pages/Produtos.jsx";
 // import Lista from "./Components/Lista.jsx"
-import Atributos from "./Components/Atributos.jsx"
+// import Atributos from "./Components/Atributos.jsx";
+import Compras from "./Components/Compras.jsx";
 import "./style.css";
 
 
 const App = () => {
   return <div>
-    <Atributos />
+    <Compras />
   </div>
 };
 
